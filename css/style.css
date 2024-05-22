@@ -106,6 +106,5 @@ h2 {
 }
 
 .completed {
-    color: #d1d3d4;
-    background-color: rgb(65, 184, 1);
+    text-decoration: line-through;    
 }
